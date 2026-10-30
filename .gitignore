@@ -19,5 +19,3 @@ unpacked/
 .DS_Store
 Thumbs.db
 
-# Claude local tooling
-.claude/
